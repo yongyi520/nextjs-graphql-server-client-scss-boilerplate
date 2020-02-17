@@ -19,9 +19,11 @@
     "graphql": "^14.0.2",
     "graphql-tag": "2.10.1",
     "next": "latest",
+    "node-sass": "^4.13.1",
     "prop-types": "^15.6.2",
     "react": "^16.7.0",
-    "react-dom": "^16.7.0"
+    "react-dom": "^16.7.0",
+    "styled-jsx-plugin-sass": "^1.0.0"
   },
   "author": "",
   "license": "ISC"
